@@ -1,0 +1,16 @@
+How to create directory. make a commit. and push to remote repository on github.
+
+1. pwd
+2. ls -a
+3. mkdir <name of new directory>
+4. ls -a
+5. cd <name of new directory>
+6. pwd
+7. git init
+8. ls -a
+9. git add <current file name>
+10. git status 
+11. git commit -m 'whatever change'
+12. follow gitHub instructions
+13. git push 
+14. git log
